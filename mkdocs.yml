@@ -1,0 +1,17 @@
+site_name: netprintf
+site_url: https://motionstable.github.io/netprintf/
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - content.code.copy
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - fenced_code
+
+extra_css:
+  - css/print.css
