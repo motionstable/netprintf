@@ -2,7 +2,7 @@ site_name: netprintf
 site_url: https://motionstable.github.io/netprintf/
 
 theme:
-  name: material
+  name: mkdocs
   features:
     - navigation.instant
     - content.code.copy
